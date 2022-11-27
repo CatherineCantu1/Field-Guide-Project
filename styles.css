@@ -624,7 +624,7 @@ textarea {
   color:white;
 }
 
-.submit:hover {
+.submit:hover a{
   background-color: white;
   color: black;
 }
