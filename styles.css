@@ -624,14 +624,10 @@ textarea {
   color:white;
 }
 
-.submit:hover a{
-  background-color: white;
-  color: black;
-}
-
 .submit a:hover {
   color: black;
   cursor: pointer;
+  background-color: white;
 }
 
 .container {
