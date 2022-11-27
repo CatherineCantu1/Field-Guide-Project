@@ -617,11 +617,11 @@ textarea {
   border: none;
   border-radius: 4px;
   cursor: pointer;
+  color:white;
 }
 
 .submit a {
   text-decoration: none;
-  color: white;
 }
 
 .submit:hover {
