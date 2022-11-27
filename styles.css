@@ -621,7 +621,7 @@ textarea {
 
 .submit a {
   text-decoration: none;
-  cursor: pointer;
+  color:white;
 }
 
 .submit:hover {
@@ -631,6 +631,7 @@ textarea {
 
 .submit a:hover {
   color: black;
+  cursor: pointer;
 }
 
 .container {
