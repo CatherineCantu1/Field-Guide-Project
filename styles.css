@@ -619,6 +619,11 @@ textarea {
   color:white;
 }
 
+.submit:hover{
+  color:black;
+  background-color: white;
+}
+
 .submit a {
   text-decoration: none;
   color:white;
@@ -627,7 +632,6 @@ textarea {
 .submit a:hover {
   color: black;
   cursor: pointer;
-  background-color: white;
 }
 
 .container {
